@@ -20,6 +20,7 @@ body{
 /*  Start Price Section  */
 
 main{
+     margin:50px 0;
      position: absolute;
      content: "";
      top: 50%;
